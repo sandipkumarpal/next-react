@@ -1,0 +1,20 @@
+{
+  "name": "next-react",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "redux": "4.0.5",
+    "styled-components": "5.2.1"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
